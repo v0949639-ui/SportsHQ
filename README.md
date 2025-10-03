@@ -1,5 +1,3 @@
-# SportsHQ
-Amazing news channel.
 <!DOCTYPE html>
 <html lang="en">
 <head>
